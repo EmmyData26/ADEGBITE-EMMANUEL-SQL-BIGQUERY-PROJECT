@@ -1,0 +1,23 @@
+Project Summary:Unveiling the Hidden Costs of American Healthcare
+Healthcare is one of the most significant sectors of any economy, yet its inner workings often remain a mystery.To understand the forces driving healthcare spending, I embarked on a data-driven investigation using 2014 Medicare records. Our journey uncovered a story of extreme markups, regional "cost hotspots," and statistical anomalies that challenge our understanding of medical pricing.
+
+Task 1: The Disconnect in Dollars (Markup Analysis)
+The first phase of my investigation focused on Hospital Markups. In a standard market, one expects a "list price" to bear some resemblance to the final payment. However, by calculating the Markup Ratio, I identified the top 10 facilities where this relationship is most strained. I found hospitals where the billed charges are several times higher than the actual Medicare reimbursement. This finding reveals a significant transparency gap that creates "sticker shock" for patients and payers alike.
+
+Task 2: A Map of Inconsistency (Geographic Benchmarking)
+Moving from individual hospitals to a broader view, I explored how geography influences the cost of care. I isolated the Top 5 most frequent medical procedures—the treatments that form the backbone of hospital activity—and ranked every U.S. State by their average payment costs.
+
+The data revealed a striking landscape of inconsistency. By narrowing the focus to the Top 5 most expensive states for each treatment, the analysis shows that the "cost of survival" shifts dramatically depending on which side of a state line you reside. This task maps out the regional economic pressures that define healthcare accessibility.
+
+Task 3: Identifying the Anomalies (Statistical Outliers)
+Every system has a "norm," but it is the exceptions that often tell the most important stories. Using statistical modeling, I looked for Outliers—providers whose charges were not just high, but were mathematically abnormal compared to their peers.
+
+By calculating a threshold of 2 standard deviations above the national mean, I isolated the providers who are truly "off the charts" for their specific procedures. This isn't just about high prices; it’s about using data to spot where billing practices depart from standard medical economics. This task serves as a rigorous tool for identifying potential anomalies that require deeper institutional scrutiny.
+
+Task 4: The Systemic Link (Cross-Domain Correlation)
+In the final stage of my analysis, I asked a fundamental question: Is healthcare inflation a localized issue or a systemic regional trend? By joining Inpatient Hospital data with Part D Prescription data, I evaluated the relationship between what we pay for a hospital stay and what we pay at the pharmacy.
+
+By deriving a Regional Correlation Coefficient, I measured whether states with high hospital costs also see high drug prices. This cross-domain analysis provides a high-level view of state-level spending, helping us understand if high costs are a broad regional phenomenon or confined to specific medical sectors.
+
+Final Reflection
+Through these four tasks, the data paints a picture of a system defined by its variance. From individual provider markups to the correlation of state-wide drug costs, this investigation provides the clarity needed to see the Medicare landscape not just as a set of numbers, but as a complex, interconnected economic story.
