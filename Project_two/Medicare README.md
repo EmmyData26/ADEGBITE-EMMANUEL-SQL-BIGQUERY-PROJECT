@@ -80,3 +80,9 @@ Strategic Recommendations:
 - Direct Audits: Focus on the facilities identified in the Top 10 Markup list.
 - Regional Policy: Investigate the systemic factors in the "Top 5 Expensive States" to understand why pharmacy and hospital costs both trend higher in those regions.
 - Real-Time Monitoring: Implement the Standard Deviation threshold logic into live billing dashboards to catch anomalies as they occur.
+
+
+Appendix:
+- DRG (Diagnosis Related Group): A system to classify hospital cases into groups that are expected to have similar hospital resource use. - DENSE_RANK: A window function that assigns ranks without gaps in the ranking sequence. Standard Deviation (STDDEV): A measure of the amount of variation or dispersion of a set of values.
+- CORRELATION : A statistical measure that indicates the extent to which two variables fluctuate together.
+-  CTE (Common Table Expression): A temporary result set used within a SQL statement to improve readability and structure.
