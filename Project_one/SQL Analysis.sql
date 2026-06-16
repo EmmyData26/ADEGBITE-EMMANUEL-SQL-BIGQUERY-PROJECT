@@ -1,9 +1,7 @@
 -- TASK ONE: Network Congestion & Fee Trends
-
--- Confirming the latest time:
-SELECT MAX(block_timestamp) AS latest_data_point
-FROM `bigquery-public-data.crypto_ethereum.transactions`;
-
+      -- Confirming the latest time:
+      SELECT MAX(block_timestamp) AS latest_data_point
+      FROM `bigquery-public-data.crypto_ethereum.transactions`;
 ------
 SELECT
   DATE(block_timestamp) AS transaction_date,
