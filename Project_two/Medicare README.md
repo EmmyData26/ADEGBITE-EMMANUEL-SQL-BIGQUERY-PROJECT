@@ -37,6 +37,9 @@ Key Insight: Even for standard treatments (e.g., Heart Failure), the cost to Med
 🥉 New Jersey ($16,800.00)
 🏅 New York ($16,450.25)
 🏅 Florida ($15,900.00)
+
+This analysis shows that while some states are consistently high-cost across multiple treatments, others appear as 'cost outliers' only for specific procedures.
+
 Task 3: Statistical Outlier Detection
 Objective: Isolate specific billing entries that are more than 2 Standard Deviations above the national average for that procedure.
 
