@@ -23,7 +23,7 @@ Objective: To determine the ratio between what hospitals "bill" (Sticker Price) 
 Logic: Markup Ratio = Covered Charges / Total Payments.
 Key Insight: I identified the Top 10 providers whose billing practices show the highest inflation. These facilities bill significantly more than the national reimbursement average, highlighting a major transparency gap.
 Visual Representation (Top 10 Markups)
-![image alt](https://github.com/EmmyData26/ADEGBITE-EMMANUEL-SQL-BIGQUERY-PROJECT/blob/04eab43c812d4661fcce8b889e0ee1627626aaa4/Project_two/image.png)
+![image alt](https://github.com/EmmyData26/ADEGBITE-EMMANUEL-SQL-BIGQUERY-PROJECT/blob/ff980a28d92c3ef1bfac3ee8e27fd0bebb43f0fc/Project_two/Medicare%20task%201.png)
 
 Task 2: Geographic Price Variance
 Objective: Identify the 5 most common medical procedures and rank the Top 5 most expensive states for each.
